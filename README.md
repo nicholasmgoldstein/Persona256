@@ -1,0 +1,2 @@
+# Persona256
+Persona256 — Decentralized identification system designed to utilize the blockchain to ID individuals.  Developed using Solidity. This smart contract uses wallet addresses and a internally-generated keccak256 hash to identify users and present their data. The functions within Persona256 emit data from events in Solidity. Administrative functions allow the initializer of the smart contract to grant permission to modify, rescind permission to modify, clear, or deactivate identities.
